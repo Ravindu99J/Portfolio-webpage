@@ -37,7 +37,7 @@ Contributions are welcome! If you would like to contribute to this project, plea
 4. Push to the branch: `git push origin your-branch-name`.
 5. Submit a pull request detailing your changes.
 
-##Chosen option for submitting Assignment 04
+## Chosen option for submitting Assignment 04
 
 Include Database Configuration in GitHub Repository: Add database configuration details (with an sql dump of your database) with any credentials needed, to your GitHub repository. Mention your choice in the README file.
 
